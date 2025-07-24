@@ -10,4 +10,4 @@
 8. From drop down, select the file.
 9. Make sure status is set to "ON"
 10. Click Ok. The plugin has been modified sucessfully.
-11. For any problems, please reach out to me on the following contacts: Discord: DarkHawk97 (https://discord.com/users/darkhawk97_)
+11. For any problems, please reach out to me on the following contacts: Discord: DarkHawk97 (https://discord.com/users/1052888979135004762)
